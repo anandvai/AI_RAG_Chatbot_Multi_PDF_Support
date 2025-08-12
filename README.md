@@ -1,4 +1,4 @@
-##🤖 RAG_AI_Chatbot_Multi_PDF_Support[Streamlit + Groq (LLaMA3)]
+# 🤖RAG_AI_Chatbot_Multi_PDF_Support[Streamlit + Groq (LLaMA3)]
 
 This project is a fully interactive **RAG (Retrieval-Augmented Generation) Chatbot** built with **Streamlit** and **LangChain**, powered by **Groq's blazing-fast LLaMA3-8B**. It allows you to upload **multiple PDFs**, ask questions, and get precise, context-aware answers in a conversational format.
 
